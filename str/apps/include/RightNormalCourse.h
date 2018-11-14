@@ -71,7 +71,7 @@ class RightNormalCourse : public NormalCourse {
 
 
   const std::int16_t AFTER_GOAL_CURVE_R = 11900;
-  const std::int16_t GRAY_FIND_AREA_R = 12200;
+  const std::int16_t GRAY_FIND_AREA_R = 12300;
 };
 
 #endif
